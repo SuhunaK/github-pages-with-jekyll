@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "Welcome to github pages"
 ---
 
-I'm glad you are here. I plan to talk about ...
+Dont search for a path make it
